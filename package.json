@@ -1,0 +1,11 @@
+{
+  "name": "pokemon-galary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "lcp --proxyUrl https://pokeapi.co"
+  },
+  "author": "",
+  "license": "ISC"
+}
