@@ -1,0 +1,20 @@
+#divPokemonListHead {
+   background-image: url('../images/hero-background.jpg');
+   background-repeat:no-repeat;
+   background-size: 99%;
+   font-size: 20px;
+   height: 350px; 
+   width: 100%;
+}
+
+#divHeadingText{
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+#divErrorMessage{
+    color: crimson;
+    font-size: 20px;
+}
